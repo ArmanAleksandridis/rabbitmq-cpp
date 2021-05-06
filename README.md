@@ -1,8 +1,9 @@
-# C++ code for RabbitMQ tutorials
+# C++ and Node.js code for RabbitMQ
 
 ## Requirements
 
 * C++11 compiler support
+* Node.js + amqp
 * [POCO C++ Libraries](http://pocoproject.org)
 * [CMake](http://www.cmake.org/)
 
@@ -22,5 +23,4 @@ On Debian/Ubuntu:
     
     cd src
     ./receive
-    ./send [Frequency in microseconds]
-    
+   node main.js
