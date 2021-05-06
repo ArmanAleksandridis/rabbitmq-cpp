@@ -23,4 +23,4 @@ On Debian/Ubuntu:
     
     cd src
     ./receive
-   node main.js
+    node main.js
