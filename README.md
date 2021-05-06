@@ -11,6 +11,7 @@
 On Debian/Ubuntu:
 
     sudo apt-get install cmake libpoco-dev
+    npm install amqplib
 
 ## Build
     
